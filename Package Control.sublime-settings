@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"auto-save",
+		"Color Highlighter",
+		"DocBlockr",
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"IMESupport",
+		"JavaScript & NodeJS Snippets",
+		"JavaScript Snippets",
+		"JSLint",
+		"LiveReload",
+		"MarkdownEditing",
+		"Nodejs",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SVG-Snippets",
+		"SyncedSideBar",
+		"W3CValidators"
+	]
+}
