@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"AlignTab",
 		"auto-save",
 		"Color Highlighter",
 		"DocBlockr",
@@ -15,6 +16,8 @@
 		"JavaScript & NodeJS Snippets",
 		"JavaScript Snippets",
 		"JSLint",
+		"LESS",
+		"Less2Css",
 		"LiveReload",
 		"MarkdownEditing",
 		"Nodejs",
